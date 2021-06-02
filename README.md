@@ -21,9 +21,10 @@ A tool that can change the sound into
 > cd sound-effect
 > bash install.sh
 > mv sound-effect /sdcard
+> cd /sdcard/sound-effect
 ```
 
-### Usage
+### Run
 ```bash
 > node index.js
 ```
