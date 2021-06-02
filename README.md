@@ -10,13 +10,11 @@ A tool that can change the sound into
 </p>
 
 ## Clone this repo
-
 ```bash
 > git clone https://github.com/shansekai/sound-effect
 ```
 
 ## Install:
-
 ```bash
 > cd sound-effect
 > bash install.sh
