@@ -1,0 +1,19 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "child_process": "^1.0.2",
+    "fluent-ffmpeg": "^2.1.2",
+    "moment-timezone": "^0.5.33",
+    "readline-sync": "^1.4.10"
+  }
+}
