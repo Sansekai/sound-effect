@@ -20,6 +20,7 @@ A tool that can change the sound into
 ```bash
 > cd sound-effect
 > bash install.sh
+> cd
 > mv sound-effect /sdcard
 > cd /sdcard/sound-effect
 ```
