@@ -11,7 +11,7 @@ A tool that can change the sound into<br>
 
 ## Clone this repo
 ```bash
-> git clone https://github.com/shansekai/sound-effect
+> git clone https://github.com/slavecode/sound-effect
 ```
 
 ## Install:
